@@ -14,7 +14,7 @@
 
 Como faço para ver o jogo?
 
-aqui
+[clique aqui](https://srubens.github.io/dino/)
 
 ![imagem](/assets/images/dino.gif)
 
