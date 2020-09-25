@@ -16,6 +16,6 @@ Como faço para ver o jogo?
 
 aqui
 
-![imagem Dino](./images/dino.gif)
+![imagem](/assets/images/dino.gif)
 
 
