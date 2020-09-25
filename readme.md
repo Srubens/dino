@@ -14,7 +14,7 @@
 
 Como faço para ver o jogo?
 
-[clique aqui](https://srubens.github.io/dino/){:target="_blank"}
+<a href="//srubens.github.io/dino" title="ir para pagina" alt="link da pagina" target="_blank">clique aqui</a>
 
 ![imagem](/assets/images/dino.gif)
 
